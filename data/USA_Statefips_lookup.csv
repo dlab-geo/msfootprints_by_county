@@ -1,0 +1,52 @@
+STATE,FIPS,ABBREV,BLDG_GEOJSON,BLDG_COUNT
+Alabama,01,AL,Alabama.geojson,2460404
+Alaska,02,AK,Alaska.geojson,110746
+Arizona,04,AZ,Arizona.geojson,2555395
+Arkansas,05,AR,Arkansas.geojson,1508657
+California,06,CA,California.geojson,10988525
+Colorado,08,CO,Colorado.geojson,2080808
+Connecticut,09,CT,Connecticut.geojson,1190229
+Delaware,10,DE,Delaware.geojson,345907
+District of Columbia,11,DC,DistrictofColumbia.geojson,58329
+Florida,12,FL,Florida.geojson,6903772
+Georgia,13,GA,Georgia.geojson,3873560
+Hawaii,15,HI,Hawaii.geojson,252891
+Idaho,16,ID,Idaho.geojson,883594
+Illinois,17,IL,Illinois.geojson,4855794
+Indiana,18,IN,Indiana.geojson,3268325
+Iowa,19,IA,Iowa.geojson,2035688
+Kansas,20,KS,Kansas.geojson,1596495
+Kentucky,21,KY,Kentucky.geojson,2384214
+Louisiana,22,LA,Louisiana.geojson,2057368
+Maine,23,ME,Maine.geojson,752054
+Maryland,24,MD,Maryland.geojson,1622849
+Massachusetts,25,MA,Massachusetts.geojson,2033018
+Michigan,26,MI,Michigan.geojson,4900472
+Minnesota,27,MN,Minnesota.geojson,2815784
+Mississippi,28,MS,Mississippi.geojson,1495864
+Missouri,29,MO,Missouri.geojson,3141265
+Montana,30,MT,Montana.geojson,762288
+Nebraska,31,NE,Nebraska.geojson,1158081
+Nevada,32,NV,Nevada.geojson,932025
+New Hampshire,33,NH,NewHampshire.geojson,563487
+New Jersey,34,NJ,NewJersey.geojson,2480332
+New Mexico,35,NM,NewMexico.geojson,1011373
+New York,36,NY,NewYork.geojson,4844438
+North Carolina,37,NC,NorthCarolina.geojson,4561262
+North Dakota,38,ND,NorthDakota.geojson,559161
+Ohio,39,OH,Ohio.geojson,5449419
+Oklahoma,40,OK,Oklahoma.geojson,2091131
+Oregon,41,OR,Oregon.geojson,1809555
+Pennsylvania,42,PA,Pennsylvania.geojson,4850273
+Rhode Island,44,RI,RhodeIsland.geojson,366779
+South Carolina,45,SC,SouthCarolina.geojson,2180513
+South Dakota,46,SD,SouthDakota.geojson,649737
+Tennessee,47,TN,Tennessee.geojson,3002503
+Texas,48,TX,Texas.geojson,9891540
+Utah,49,UT,Utah.geojson,1004734
+Vermont,50,VT,Vermont.geojson,345911
+Virginia,51,VA,Virginia.geojson,3057019
+Washington,53,WA,Washington.geojson,2993361
+West Virginia,54,WV,WestVirginia.geojson,1020031
+Wisconsin,55,WI,Wisconsin.geojson,3054452
+Wyoming,56,WY,Wyoming.geojson,380772
